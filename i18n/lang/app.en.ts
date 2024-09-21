@@ -1,35 +1,35 @@
 const translation = {
   common: {
-    welcome: 'Welcome to use',
-    appUnavailable: 'App is unavailable',
-    appUnkonwError: 'App is unavailable',
+    welcome: 'Bem-vindo ao ',
+    appUnavailable: 'O App está indisponível',
+    appUnkonwError: 'Erro desconhecido no App',
   },
   chat: {
-    newChat: 'New chat',
-    newChatDefaultName: 'New conversation',
-    openingStatementTitle: 'Opening statement',
-    powerBy: 'Powered by',
+    newChat: 'Novo chat',
+    newChatDefaultName: 'Nova Conversa',
+    openingStatementTitle: 'Abri a conversa',
+    powerBy: 'Desenvolvido por VT Sávio Serviços',
     prompt: 'Prompt',
-    privatePromptConfigTitle: 'Conversation settings',
-    publicPromptConfigTitle: 'Initial Prompt',
-    configStatusDes: 'Before start, you can modify conversation settings',
+    privatePromptConfigTitle: 'Configurações da conversa',
+    publicPromptConfigTitle: 'Sugestão inicial',
+    configStatusDes: 'Antes de começar, você pode modificar as configurações da conversa',
     configDisabled:
-      'Previous session settings have been used for this session.',
-    startChat: 'Start Chat',
-    privacyPolicyLeft:
-      'Please read the ',
+      'As configurações da sessão anterior foram usadas para esta sessão.',
+    startChat: 'Iniciar Chat',
+    privatePolicyLeft:
+      'Por favor, leia a ',
     privacyPolicyMiddle:
-      'privacy policy',
+      'política de privacidade',
     privacyPolicyRight:
-      ' provided by the app developer.',
+      ' fornecido pelo desenvolvedor.',
   },
   errorMessage: {
-    valueOfVarRequired: 'Variables value can not be empty',
+    valueOfVarRequired: 'Os valores de variáveis são obrigatórios',
     waitForResponse:
-      'Please wait for the response to the previous message to complete.',
+      'Por favor, aguarde a resposta da mensagem anterior para completar.',
   },
   variableTable: {
-    optional: 'Optional',
+    optional: 'Opcional',
   },
 }
 
